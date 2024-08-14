@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/A-normal-page-using-react/static/css/main.eb6e2b59.css",
+    "main.js": "/A-normal-page-using-react/static/js/main.210d06c2.js",
+    "index.html": "/A-normal-page-using-react/index.html",
+    "main.eb6e2b59.css.map": "/A-normal-page-using-react/static/css/main.eb6e2b59.css.map",
+    "main.210d06c2.js.map": "/A-normal-page-using-react/static/js/main.210d06c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb6e2b59.css",
+    "static/js/main.210d06c2.js"
+  ]
+}
