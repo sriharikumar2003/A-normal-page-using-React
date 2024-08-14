@@ -1,0 +1,38 @@
+
+ul{
+    text-decoration: none;
+    list-style-type: none;
+    gap: 20px;
+    background-color: greenyellow;
+    margin: 0px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.brand{
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+    padding: 1px;
+}
+table{
+    align-items: center;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+}
+.table{
+    display: flex;
+    height: 75vh;
+    align-items: center;
+    justify-content: center;
+}
+td,tr,th{
+    border: 1px solid black;
+    padding: 20px;
+    font-size: 25px;
+}
